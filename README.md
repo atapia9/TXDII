@@ -5,14 +5,14 @@
 
 # Desafío Telecom X — Análisis ETL y EDA
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto presenta un análisis exploratorio de datos (EDA) sobre clientes de **Telecom X**, utilizando un proceso estructurado de **Extracción, Transformación y Carga (ETL)** a partir de un dataset en formato JSON.
 El objetivo principal es **identificar patrones de comportamiento y factores asociados a la pérdida de clientes (churn)**, generando insights accionables para la toma de decisiones de negocio.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Analizar los datos de clientes de Telecom X para:
 
@@ -22,7 +22,7 @@ Analizar los datos de clientes de Telecom X para:
 
 ---
 
-## 🧩 Alcance del análisis
+## Alcance del análisis
 
 El proyecto cubre las siguientes etapas:
 
@@ -37,7 +37,7 @@ El proyecto cubre las siguientes etapas:
 
 ---
 
-## 🛠 Herramientas y tecnologías
+## Herramientas y tecnologías
 
 * **Lenguaje:** Python 3
 * **Entorno:** Jupyter Notebook / Google Colab
@@ -51,7 +51,7 @@ El proyecto cubre las siguientes etapas:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 telecomx-challenge/
@@ -70,7 +70,7 @@ telecomx-challenge/
 
 ---
 
-## ▶️ Ejecución del proyecto
+##  Ejecución del proyecto
 
 1. Clonar o descargar el repositorio.
 2. Abrir el notebook `01_telecomx_etl_eda.ipynb`.
@@ -79,7 +79,7 @@ telecomx-challenge/
 
 ---
 
-## 📊 Principales hallazgos (resumen)
+## Principales hallazgos (resumen)
 
 * El churn es significativamente mayor en clientes con baja antigüedad.
 * Los contratos mensuales presentan mayor riesgo de abandono.
@@ -89,7 +89,7 @@ telecomx-challenge/
 
 ---
 
-## 📌 Recomendaciones clave
+## Recomendaciones clave
 
 * Reforzar el onboarding durante el primer año.
 * Incentivar la migración a contratos de mayor duración.
@@ -98,7 +98,7 @@ telecomx-challenge/
 
 ---
 
-## ⚠️ Limitaciones
+## Limitaciones
 
 * El análisis no considera información temporal detallada.
 * No se evalúan causas externas al dataset (competencia, mercado, promociones).
@@ -106,7 +106,7 @@ telecomx-challenge/
 
 ---
 
-## 🚀 Siguientes pasos
+## Siguientes pasos
 
 * Desarrollo de un modelo predictivo de churn.
 * Integración de métricas de experiencia del cliente.
@@ -114,7 +114,7 @@ telecomx-challenge/
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Jesus Armando Tapia Gallegos**
 Proyecto desarrollado como parte del **Desafío Telecom X**.
