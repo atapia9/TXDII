@@ -1,6 +1,3 @@
-# TXDII
-# Desafio II Telecom X - Alura
-
 ---
 
 # Desafío Telecom X — Análisis ETL y EDA
@@ -73,7 +70,7 @@ telecomx-challenge/
 ##  Ejecución del proyecto
 
 1. Clonar o descargar el repositorio.
-2. Abrir el notebook `01_telecomx_etl_eda.ipynb`.
+2. Abrir el notebook `JATG_telecomx_etl_eda.ipynb`.
 3. Ejecutar las celdas en orden, desde la extracción de datos hasta las conclusiones.
 4. Verificar que el notebook se ejecute sin errores de principio a fin.
 
